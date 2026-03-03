@@ -1,8 +1,12 @@
+import traceback
+
 from rest_framework.views import APIView
 from rest_framework.response import Response
 from rest_framework import status
 
 from core.llm.groq_service import GroqLLMService
+
+from core.rag.rag_service import RAGService
 
 
 class ChatView(APIView):
@@ -48,3 +52,22 @@ class ChatView(APIView):
                 {"error": "Internal server error."},
                 status=status.HTTP_500_INTERNAL_SERVER_ERROR,
             )
+
+
+
+class RAGChatView(APIView):
+
+    def post(self, request):
+        question = request.data.get("message")
+
+        if not question:
+            return Response({"error": "Message required."}, status=400)
+
+        try:
+            rag = RAGService()
+            answer = rag.ask(question)
+            return Response({"response": answer}, status=status.HTTP_200_OK)
+
+        except Exception as e:
+            traceback.print_exc()  # IMPORTANT: prints full traceback to terminal
+            return Response({"error": str(e)}, status=status.HTTP_500_INTERNAL_SERVER_ERROR)
