@@ -1,0 +1,183 @@
+**Document Information**
+
+### Document 1: Public Services Card (PSC)
+
+#### Card Details
+
+* **Card Type:** Public Services Card (PSC)
+* **Card Name:** Cá­rta Seirbhísí Poiblí (Public Services Card)
+* **Country:** Éire | Ireland
+* **Logo:** A blue logo with "CSP PSC" in the center
+* **Date of Expiry:** 02-10-2034
+
+#### Personal Details
+
+* **Surname:** Kuragayala
+* **Forename:** Srikar
+* **Signature:** Srikar.K (signature of the cardholder)
+* **Photo:** A black and white photo of the cardholder, a male with dark hair and a beard.
+
+### Document 2: MyGovID Card
+
+#### Card Details
+
+* **MyGovID logo**: The logo is displayed on the left side of the card.
+* **Text in Irish and English**: The card features text in both Irish and English, which provides instructions on how to contact the relevant authorities if the card is lost or found.
+* **Contact Information**:
+	+ Phone number: 0818 837000
+	+ Address: PO Box 19, Carrick-on-Shannon, Co. Leitrim
+* **Card Details**:
+	+ PPS Number (UIMHIR PSP): 0138916SB
+	+ Card Number (UIMHIR AN CHÁRTA): 949069378906
+	+ URC/CAN: XXXXX (redacted for security purposes)
+
+### Document 3: Indian Union Driving License (International Driving Permit)
+
+#### Card Details
+
+* **Card Type:** Indian Union Driving License (International Driving Permit)
+* **Logo:** A light blue background with a gold emblem in the top-left corner
+* **Date of Issue:** 03/09/2024
+* **Validity (NT):** 02/09/2025
+
+#### Personal Details
+
+* **Name:** KURAGAYALA SRIKAR
+* **Date of Birth:** 25/11/2000
+* **Son / Daughter / Wife of:** SRIHARI
+* **Address:** 3-5-14, JAVAHAR ROAD, KORUTLA, KORUTLA, JAGITYAL - 505326
+
+#### Card Details
+
+* **IDP No**: IDPTG0213362024
+* **DL0710431/23** (located at the top right corner)
+* **Invalid Carriages (Regn. Numbers)**
+	+ **Hazardous Validity** and **Hill Validity** (two columns)
+* **Table with the following columns:**
+	+ Class of Vehicle
+	+ Code
+	+ Issued by
+	+ Date of Issue
+	+ Vehicle Category
+	+ Badge Number
+	+ Badge Issued Date
+	+ Badge Issued by
+* **Table data:**
+	+ Two rows of data:
+		- Class of Vehicle: (icon of a motorcycle) and (icon of a car)
+		- Code: A and B
+		- Issued by: TS121 (both rows)
+		- Date of Issue: 03/09/2024 (both rows)
+		- Vehicle Category: NT (both rows)
+		- Badge Number: (blank)
+		- Badge Issued Date: (blank)
+		- Badge Issued by: (blank)
+* **Emergency Contact Number** (label at the bottom left)
+* **Licensing Authority Name:** RTA JAGITYAL (partially filled)
+* **Form 7 Rule 16(2)** (vertical text on the right side)
+
+### Document 4: Student Identity Card
+
+#### Card Details
+
+* **University Name:** 
+	+ English: Dublin City University
+	+ Irish: Ollscoil Chathair Bhaile Átha Cliath
+* **Card Ownership and Usage:**
+	+ English: This card is the property of Dublin City University. It must be shown if requested to any authorised official. This card is non transferable.
+	+ Irish: Is le h-Ollscoil Chathair Bhaile Átha Cliath an cárta seo. Ní foláir é a thaispeáint má iarrtar é d'fhtheidhmeannaigh aitheanta. Ní h-inmaistrithe an cárta seo.
+
+#### Personal Details
+
+* **Student Name:** Srikar Kuragayala
+* **Student Number:** 14350
+* **Qualification:** MCM1 (Master of Computer Science with one year of study)
+* **Expiration Date:** 11/09/2026
+* **Student ID Barcode:** 1000014350001
+
+### Document 5: Irish Residence Permit (IRP)
+
+#### Card Details
+
+* **Permit Number:** R1480169
+* **Type of Permit:** Stamp 1G
+* **Card Expiry:** 31 12 2026
+
+#### Personal Details
+
+* **Name:** KURAGAYALA Srikar
+* **Date of Birth:** 25 11 2000
+* **Sex:** M
+* **Nationality:** IND (Indian)
+
+#### Remarks
+
+* The person named is registered as required by Irish immigration law.
+* This IRP is not an identity card.
+
+### Document 6: Irish Residence Permit (IRP)
+
+#### Card Details
+
+* **Registration No:** 1425952
+* **Type of Permission:** Student permission to study full-time
+* **Limitations:** 
+	+ No access to public services/benefits
+	+ Permission to work subject to limitations
+	+ Cannot engage in business
+* **Issuance Information:**
+	+ **Date of Issue:** 30/10/2024
+	+ **Place of Issue:** Dublin Burgh Quay
+* **Personal Details:**
+	+ **Place of Birth:** India
+	+ **Name:** Not explicitly mentioned, but appears to be Kuragayala Srikar
+	+ **IRP Number:** IRIRLR7745132<81425952<<<<<<<<<0011259M2512093IND<<<<<<<<<6
+* **Additional Information:** This IRP is the property of the Minister for Justice.
+
+### Document 7: Indian Passport
+
+#### Card Details
+
+* **Type:** P
+* **Code:** IND
+* **Nationality:** Indian
+* **Passport Number:** V3765650
+* **Surname:** Kuragayla
+* **Given Name(s):** Srikar
+* **Date of Birth:** 25/11/2000
+* **Sex:** M
+* **Place of Birth:** Jagityal, Telangana
+* **Place of Issue:** Hyderabad
+* **Date of Issue:** 20/10/2021
+* **Date of Expiry:** 19/10/2031
+
+#### Machine-Readable Zone
+
+* **P<INDKURAGAYALA<<SRIKAR<<<<<<<<<<<<<<<<**
+* **V3765650<1IND0011259M31101977063646233321<82**
+
+### Document 8: File Information
+
+#### File Details
+
+* **File No:** HY7063646233321
+
+#### Address
+
+* **Address:** 3-5-14 Jawahar Road, Korutla, Jagityal, Telangana, India
+* **PIN:** 505326
+
+#### Personal Details
+
+* **Name of Father / Legal Guardian:** Srihari Kuragayala
+* **Name of Mother:** Kalpana Kuragayala
+* **Name of Spouse:** Not provided
+
+#### Barcode and Braille Information
+
+* A barcode is present on the right side of the document
+* Braille text is present at the bottom of the document, but it is not readable.
+
+#### Additional Text
+
+* Some text in a foreign language ( likely Hindi) is present on the document, but it is not translated.

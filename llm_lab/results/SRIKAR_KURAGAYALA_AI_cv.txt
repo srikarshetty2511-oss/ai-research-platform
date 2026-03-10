@@ -1,0 +1,104 @@
+**SRIKAR KURAGAYALA**
+
+**Contact Information:**
+
+* **Email:** [srikarshetty2511@gmail.com](mailto:srikarshetty2511@gmail.com)
+* **Phone:** +(353) 894092807
+* **Address:** Apartment 26, The Joyce, Gresham House, Sean MacDermott Street Upper, Dublin, Ireland, D01AE64
+* **LinkedIn:** [https://www.linkedin.com/in/srikar2511](https://www.linkedin.com/in/srikar2511)
+
+**Professional Summary:**
+
+Proficient AI software developer with a strong background in full-stack development. Engineered AI-driven solutions, including advanced sentiment analysis models, to tackle practical issues. Expertise in Python and modern web technologies, focused on building scalable, data-driven applications.
+
+**Work Experience:**
+
+### **Associate Software Engineer - Optival Health Solutions Pvt Ltd., Hyderabad, India**
+
+* **Duration:** 06/2022 – 08/2024
+* Developed and maintained full-stack web applications using Python/Django, React, and Angular.
+* Designed and implemented RESTful APIs, optimized database queries, and ensured seamless integration between frontend and backend.
+* Collaborated in cross-functional teams to deliver responsive and scalable solutions, improving system performance.
+* Conducted testing, debugging, and performance tuning to enhance user experience and operational efficiency.
+
+### **Customer Store Representative - Circle K, Dublin, Ireland**
+
+* **Duration:** 11/2024 – Present
+* Part-time role.
+
+**Education:**
+
+### **Master of Science in Computing: Artificial Intelligence**
+
+* **University:** Dublin City University
+* **Duration:** 01/2024 – 01/2025
+* **GPA:** 1:1 (First Class Honours)
+
+### **Bachelor of Technology: Computer Science**
+
+* **University:** Gurunanak Institutions Technical Campus
+* **Duration:** 01/2018 – 01/2022
+* **GPA:** 8.3/10 (First Class with Distinction)
+
+**Technical Skills:**
+
+### **Programming:**
+
+* Python
+* Java
+* C
+
+### **AI/ML & NLP:**
+
+* Retrieval-Augmented Generation (RAG)
+* TensorFlow
+* Hugging Face
+* NLTK
+* Natural Language Processing (NLP)
+* Sentiment Analysis
+* Deep Learning (BERT, BILSTM, T5)
+
+### **LLM Frameworks:**
+
+* LangChain
+* LangGraph
+
+### **Web Development:**
+
+* Django
+* Spring Boot
+* React
+* Angular
+* REST APIs
+
+### **Core Concepts:**
+
+* Data Structures and Algorithms (Java)
+* SQL
+
+**Projects:**
+
+### **Multi-Level Sentiment Analysis on E-commerce Reviews (MSc Project)**
+
+* Designed a unified framework for sentiment analysis at document, sentence, and aspect levels using BILSTM, BERT, and T5 models.
+* Achieved **89.66% accuracy** through ensemble fusion, outperforming baseline models.
+* Processed and analyzed **568,000+ Amazon reviews** using Hugging Face Transformers, TensorFlow, and NLP techniques.
+
+### **Human Resource Management System**
+
+* Built a Django backend with secure employee login and migration from legacy systems.
+* Created dynamic forms with Formik and integrated Timesheet & Leave modules.
+* Improved onboarding and employee profile management efficiency.
+
+### **Optival Health Services**
+
+* Developed web registers (e.g., Store Visit, Commitment Register) for improved usability and operational tracking.
+* Enhanced data accessibility and reporting functionality for management teams.
+
+**Core Competencies:**
+
+* **Analytical mindset and problem-solving**
+* **Strong communication and collaboration**
+* **Agile and adaptable in fast-paced environments**
+* **Inclusive teamwork and cross-functional collaboration**
+* **Curiosity-driven with focus on continuous learning**

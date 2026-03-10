@@ -1,0 +1,162 @@
+**Dublin City University (DCU) Student Examination Results**
+
+**University Information**
+
+*   **University Name**: Dublin City University (DCU)
+*   **Address**: 
+    *   Registry
+    *   Dublin City University
+    *   Dublin 9, Ireland
+*   **Contact Information**:
+    *   Telephone: +353 1 700 5985
+    *   Fax: +353 1 700 5504
+    *   Website: www.dcu.ie
+
+**Student Information**
+
+*   **Student ID**: A00014350
+*   **Name**: Srikar Kuragayala
+*   **Address**: 
+    *   3-5-14 Jawahar Road
+    *   Korutla, Jagityal
+    *   Jagityal, India 505326
+*   **Date of Birth**: 25 November 2000
+
+**Program Information**
+
+*   **Program**: Master of Science in Computing
+*   **Major**: Artificial Intelligence
+
+**Examination Results**
+
+### **Spring Examination**
+
+| Module Code | Module Title                                  | Mark Awarded | Result Code | ECTS Credits |
+|-------------|-----------------------------------------------|--------------|-------------|--------------|
+| CSC1131     | Professional & Research Practice              | 69           | P           | 7.5          |
+| CSC1140     | Statistical Data Analysis                    | 76           | P           | 7.5          |
+| CSC1143     | Data Management & Visualisation               | 71           | P           | 7.5          |
+| CSC1147     | Foundations of Artificial Intelligence         | 73           | P           | 7.5          |
+
+### **Summer Examination**
+
+| Module Code | Module Title                                               | Mark Awarded | Result Code | ECTS Credits |
+|-------------|------------------------|--------------|-------------|--------------|
+| CSC1121     | Mechanics of Search, Information & Information Seeking     | 61           | P           | 7.5          |
+| CSC1138     | Artificial Intelligence, Information & Information Seeking | 74           | P           | 7.5          |
+| CSC1144     | Data Analytics & Data Mining                            | 75           | P           | 7.5          |
+| CSC1145     | Machine Learning                                         | 75           | P           | 7.5          |
+
+### **Autumn Examination**
+
+| Module Code | Module Title                      | Mark Awarded | Result Code | ECTS Credits |
+|-------------|-----------------------------------|--------------|-------------|--------------|
+| CSC1149     | Practicum (Artificial Intelligence) | 74           | P           | 30           |
+
+### **Annual Result**
+
+*   **Programme**: Complete
+*   **Award Classification**: First Class Honours
+
+**Verification**
+
+*   **Approved by**: The results have been approved at the relevant Progression and Awards Board.
+*   **Note**: Errors and Omissions Excluded.
+
+**Issuance Details**
+
+*   **Date of Issue**: 25 September 2025
+*   **Time of Issue**: 11:29
+*   **Issued by**: Phylomena McMorrow, Director of Registry
+
+**Additional Note**
+
+*   This document is an important record of examination results. Replacement copies will be issued on written request, subject to payment of the stipulated fee.
+
+**Interpretation of Data**
+
+### **Duration Codes**
+
+*   S = Single Semester
+*   Y = Full Academic Year
+
+### **Result Codes**
+
+*   A = Absent
+*   AO = Registered for Attendance Only
+*   C = Pass by Compensation
+*   D = Deferred Result
+*   E = Exemption
+*   F = Fail
+*   FN = Fail; Time Owing on Clinical Practice
+*   FG = Fail Competence
+*   FB = Fail Attendance
+*   I = Certified Illness
+*   L = Laboratory Pass Only
+*   P = Pass
+*   PF = Passed Link Module
+*   T = Theory Pass Only
+*   W = Failed a Coursework Element
+*   X = Failed an Examination Element
+*   S = Resit Assessment Element as per module information
+*   R = Resit Exam Element
+
+### **ECTS Grades**
+
+*   A = Excellent: outstanding performance with only minor errors
+*   B = Very Good: above average performance but with some errors
+*   C = Good: generally sound work with some notable errors
+*   D = Satisfactory: fair but with significant shortcomings
+*   E = Sufficient: minimum criteria met
+*   FX = Fail: some more work required
+*   F = Fail: considerable further work required
+
+### **DCU/ECTS Credits**
+
+*   A student attending full-time at the University will normally accumulate 60 ECTS (European Credit Transfer System) credits per year. A 3-year degree programme would have a total ECTS credit value of 180 and, similarly, a 4-year degree programme would have a value of 240 ECTS credits.
+
+**Assessment Methodology**
+
+*   In general, student performance is determined at the conclusion of each academic year. In taught programmes, this is based on a combination of attainment in end-of-semester examinations (both semesters) and continuous assessment of academic exercises carried out throughout the academic year. Research programmes of study are assessed on the basis of a submitted thesis and oral examination; although in the case of Masters Degrees the latter may be waived at the discretion of the examiners.
+
+**Pass Mark**
+
+*   The minimum mark required for a pass in a module is 40% unless stated otherwise in programme regulations. A candidate who fails to attain the required pass standard in all modules taken at a single sitting may, at the discretion of the Progression and Award Boards, be allowed to pass the module as a whole by compensation, subject to the approval of Academic Council.
+
+**Exemptions**
+
+*   In general, all modules passed by a candidate in a particular year of study should have such passes held in perpetuity unless removed as a consequence of a subsequent disciplinary decision approved by Academic Council.
+
+**Award Classifications: Primary Degrees**
+
+| Level of Award | Pre Academic Year 2007/08 | Academic Year 2007/08 onwards |
+| :-------------- | :------------------------ | :--------------------------- |
+| First Class Honours | Not less than 70% | Not less than 70% |
+| Second Class Honours-Grade 1 | Not less than 63% | Not less than 60% |
+| Second Class Honours-Grade 2 | Not less than 55% | Not less than 50% |
+| Third Class Honours | Not less than 50% | Not less than 40% |
+| Pass | Not less than 40% | N/A |
+
+**Award Classifications: Other Awards**
+
+### 6.1 A Certificate, Diploma, Graduate Certificate or Graduate Diploma (in most cases) may be awarded as follows:
+
+| % Average Mark | Pre Academic Year 2021/22 | Academic Year 2021/22 onwards |
+| :------------- | :------------------------ | :--------------------------- |
+| Not less than 70% | Distinction | First Class Honours |
+| Not less than 60% | Credit | Second Class Honours-Grade 1 |
+| Not less than 50% | Pass | Second Class Honours-Grade 2 |
+| Not less than 40% | Pass | Third Class Honours |
+
+### 6.2 A Masters Degree obtained through coursework and dissertation may be awarded as follows:
+
+| % Average Mark | Pre Academic Year 2017/18 | Academic Year 2017/18 onwards |
+| :------------- | :------------------------ | :--------------------------- |
+| Not less than 70% | First Class Honours | First Class Honours |
+| Not less than 60% | Second Class Honours | Second Class Honours-Grade 1 |
+| Not less than 50% | Pass | Second Class Honours-Grade 2 |
+| Not less than 40% | Pass | Third Class Honours |
+
+### 6.3 A Masters Degree by research is awarded without classification.
+
+### 6.4 Doctoral Degrees are awarded without classification.

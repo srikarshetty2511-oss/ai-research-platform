@@ -1,0 +1,177 @@
+**Guru Nanak Institutions Technical Campus Provisional Certificate**
+
+**Institutional Information:**
+
+* **Name:** Guru Nanak Institutions Technical Campus
+* **Type:** UGC Autonomous Institution
+* **Approval Details:**
+ + **Approved by:** AICTE, New Delhi
+ + **Permanently Affiliated to:** JNTU Hyderabad
+ + **Accredited by:** NAAC with A+ Grade
+* **Campus Address:** Ibrahimpatnam, R.R. District - 501 506, Telangana, India
+
+**Certificate Details:**
+
+* **Certificate Type:** Provisional Certificate
+* **Certificate Number (PC No.):** WJ04623
+* **Hall Ticket Number:** 18WJ1A05H4
+* **Identification Numbers:**
+ + 31221WJ02651
+ + 21221WJ02651
+
+**Student Information:**
+
+* **Name:** Mr. Kuragayala Srikar
+* **Parent's Name:** Mr. Kuragayala Srihari
+* **Program:** B.Tech (Computer Science and Engineering)
+
+**Academic Achievement:**
+
+* **Examination Date:** July 2022
+* **Result:** First Class with Distinction
+
+**Degree Award:**
+
+* **Degree:** B.Tech
+* **Awarding University:** Jawaharlal Nehru Technological University, Hyderabad
+
+**Verification and Issuance:**
+
+* **Verified By:** [Signature]
+* **Controller of Examinations:** [Signature]
+* **Principal:** [Signature]
+* **Date of Issue:** 19/10/2022
+
+**Additional Features:**
+
+* **A photo of the student is included.**
+* **A QR code and barcode are present for verification purposes.**
+* **Logos and seals of Guru Nanak Institutions and other relevant bodies are displayed.**
+
+**Guru Nanak Institutions Technical Campus Consolidated Grade Memo/Credit Sheet**
+
+**Student Information:**
+
+* **Name:** Kuragayala Srikar
+* **Branch:** Computer Science and Engineering
+* **Year of Admission:** 2018-2019
+* **Hall Ticket No.:** 18WJ1A05H4
+* **Month & Year of Pass:** July 2022
+* **Class Obtained:** First Class with Distinction
+
+**Academic Performance:**
+
+The student has completed coursework across eight semesters, with grades and credits earned in each subject.
+
+**Semester-wise Performance:**
+
+### Semester 1
+
+| Subject Title | Gr | GP | Cr |
+| --- | --- | --- | --- |
+| Mathematics - I | A+ | 9 | 4 |
+| Chemistry | A+ | 9 | 4 |
+| Basic Electrical Engineering | O | 10 | 4 |
+| Programming for Problem Solving | A | 8 | 3 |
+| Chemistry Lab | O | 10 | 1.5 |
+| Basic Electrical Engineering Lab | O | 10 | 1 |
+| Programming for Problem Solving Lab | O | 10 | 2 |
+
+### Semester 2
+
+| Subject Title | Gr | GP | Cr |
+| --- | --- | --- | --- |
+| Mathematics-II | O | 10 | 4 |
+| Applied Physics | A+ | 9 | 4 |
+| English | B+ | 7 | 2 |
+| Engineering Graphics | B+ | 7 | 3 |
+| Applied Physics Lab | O | 10 | 1.5 |
+| English Lab | A | 8 | 1 |
+| Engineering Workshop | A+ | 9 | 3 |
+
+### Semester 3
+
+| Subject Title | Gr | GP | Cr |
+| --- | --- | --- | --- |
+| Analog & Digital Electronics | A+ | 9 | 3 |
+| Computer Organization & Architecture | A+ | 9 | 3 |
+| Data Structures | B+ | 7 | 3 |
+| Discrete Mathematics | A | 8 | 3 |
+| Object Oriented Programming through JAVA | A+ | 9 | 3 |
+| Analog & Digital Electronics Lab | A+ | 9 | 1.5 |
+| Data Structures Lab | O | 10 | 2 |
+| IT Workshop Lab | A | 8 | 1.5 |
+| Object Oriented Programming through JAVA Lab | A | 8 | 2 |
+
+### Semester 4
+
+| Subject Title | Gr | GP | Cr |
+| --- | --- | --- | --- |
+| Organizational Behavior | A | 8 | 3 |
+| Design & Analysis of Algorithms | B+ | 7 | 3 |
+| Data Base Management Systems | B+ | 7 | 3 |
+| Operating Systems | B+ | 7 | 3 |
+| Effective Technical Communication | A | 8 | 3 |
+| Design & Analysis of Algorithms Lab | A+ | 9 | 2 |
+| Data Base Management Systems Lab | A+ | 9 | 1.5 |
+| Operating Systems Lab | A+ | 9 | 1.5 |
+| Gender Sensitization Lab | A | 8 | 0 |
+
+### Semester 5
+
+| Subject Title | Gr | GP | Cr |
+| --- | --- | --- | --- |
+| Computer Networks | B+ | 7 | 4 |
+| Formal Languages & Automata Theory | B+ | 7 | 3 |
+| Software Engineering | B+ | 7 | 3 |
+| Principles of Programming Languages | A | 8 | 3 |
+| Disaster Preparedness & Planning Management | A | 8 | 3 |
+| Environmental Science | B | 6 | 3 |
+| Fundamentals of Cyber Security | O | 10 | 0 |
+| Computer Networks Lab | A+ | 9 | 1 |
+| Software Engineering Lab | A+ | 9 | 2 |
+| Scripting Languages Lab | A+ | 9 | 2 |
+
+### Semester 6
+
+| Subject Title | Gr | GP | Cr |
+| --- | --- | --- | --- |
+| Management Science | A | 8 | 3 |
+| Compiler Design | A | 8 | 3 |
+| Web Technologies | C | 5 | 3 |
+| Information Security | A | 8 | 3 |
+| Software Project Management | A | 8 | 3 |
+| Principles of Electronic Communications | A | 8 | 3 |
+| Constitution of India | C | 5 | 0 |
+| Fundamentals of Artificial Intelligence | B | 6 | 0 |
+| Compiler Design Lab | O | 10 | 1.5 |
+| Web Technologies Lab | O | 10 | 1.5 |
+
+### Semester 7
+
+| Subject Title | Gr | GP | Cr |
+| --- | --- | --- | --- |
+| Artificial Intelligence | B+ | 7 | 3 |
+| Data Warehousing and Data Mining | B | 6 | 3 |
+| Cyber Forensics | B+ | 7 | 3 |
+| Internet of Things | B | 6 | 3 |
+| Embedded Systems | A | 8 | 3 |
+| Data Warehousing and Data Mining Lab | A+ | 9 | 1 |
+| Summer Internship | O | 10 | 2 |
+| Mini Project | O | 10 | 3 |
+
+### Semester 8
+
+| Subject Title | Gr | GP | Cr |
+| --- | --- | --- | --- |
+| Cloud Computing | B+ | 7 | 3 |
+| Machine Learning | B+ | 7 | 3 |
+| Cellular and Mobile Communications | A | 8 | 3 |
+| Seminar | O | 10 | 1 |
+| Main Project | O | 10 | 7 |
+
+**Summary:**
+
+* **Number of Credits Registered and Secured:** 160
+* **Aggregate CGPA Secured:** 8.25
+* **Date:** 19/10/2022
